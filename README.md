@@ -1,4 +1,4 @@
-My C Programming Class Practice Code
+My C Language Programming Class Practice Code
 
 각각의 코드가 어떤 기능을 수행하는지
 main 함수 옆에 주석으로 적어놨어요
